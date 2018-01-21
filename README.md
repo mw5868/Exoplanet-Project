@@ -1,5 +1,6 @@
 # Exoplanet Project
 This repo is designed to provide educational resources related to the study of exoplanetary science.
+>Discovering Other Worlds!
 
 ## What are exoplanets?
 Exoplanets are planets which orbit stars that are not our own Sun.
