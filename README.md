@@ -63,3 +63,9 @@ plt.ylabel("Relative flux")
 plt.show()
 
 ```
+```python
+
+>>>import BATMAN
+
+
+```
