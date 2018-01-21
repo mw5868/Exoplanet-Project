@@ -32,6 +32,7 @@ limb_dark = "quadratic"       #limb darkening model
 ```
 ## Generating a transit model using BATMAN
 The BATMAN library is an opensouce code library which enables simple simulation of transit lightcurves using user defined paramenters (Examples above)
+The BATMAN tutorial and documentation can be found [HERE](https://www.cfa.harvard.edu/~lkreidberg/batman/tutorial.html)
 
 ```python
 import batman
