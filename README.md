@@ -4,7 +4,7 @@ This repo is designed to provide educational resources related to the study of e
 ## What are exoplanets?
 Exoplanets are planets which orbit stars that are not our own Sun.
 
-![alt text](https://en.wikipedia.org/wiki/Methods_of_detecting_exoplanets#/media/File:Planetary_transit.svg "Example Transit")
+![alt text](http://exoplanets.co/img/transit-method-diagram.jpg "Example Transit")
 
 
 ## Transit Basics
