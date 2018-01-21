@@ -5,7 +5,7 @@ This repo is designed to provide educational resources related to the study of e
 Exoplanets are planets which orbit stars that are not our own Sun.
 
 ## Exoplanet Transit Lightcurve
-![alt text](https://www.google.co.uk/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwig9_6tyunYAhVFCsAKHWdvC5AQjRwIBQ&url=http%3A%2F%2Fwww.phy.cuhk.edu.hk%2Fsure%2Fcomments_2015%2Fckw_pre.pdf&psig=AOvVaw0iTUVXPTLjJVv9P6yI9mFX&ust=1516642122231146 "Example Transit")
+![alt text](http://www.exoplanetproject.co.uk/uploads/6/9/9/9/6999140/9299476_orig.jpg "Example Transit")
 
 
 ## Transit Basics
