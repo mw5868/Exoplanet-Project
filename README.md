@@ -1,14 +1,14 @@
 # Exoplanet Project
 This repo is designed to provide educational resources related to the study of exoplanetary science.
->Astronomy reseach and outreach, exoploring and discovering Other Worlds!
+>Astronomy research and outreach, exploring and discovering Other Worlds!
 
 ## What are exoplanets?
 Exoplanets are planets which orbit stars that are not our own Sun.
 
->As of early 2018 there are over 3500 confirmed exoplanets in 594 mulit-planet systems.
+>As of early 2018 there are over 3500 confirmed exoplanets in 594 multi-planet systems.
 
 A lot of the data this tutorial will use will be pulled from the [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/index.html)
-The archive is a repository of opensource data collated from a number of observatories, including the famous KEPLER space telescope.
+The archive is a repository of open-source data collated from a number of observatories, including the famous KEPLER space telescope.
 
 
 ## Exoplanet Transit Lightcurve
@@ -31,7 +31,7 @@ limb_dark = "quadratic"       #limb darkening model
 
 ```
 ## Generating a transit model using BATMAN
-The BATMAN library is an opensouce code library which enables simple simulation of transit lightcurves using user defined paramenters (Examples above)
+The BATMAN library is an open-source code library which enables simple simulation of transit lightcurves using user defined parameters (Examples above)
 The BATMAN tutorial and documentation can be found [HERE](https://www.cfa.harvard.edu/~lkreidberg/batman/tutorial.html)
 
 ```python
