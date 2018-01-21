@@ -5,10 +5,10 @@ This repo is designed to provide educational resources related to the study of e
 ## What are exoplanets?
 Exoplanets are planets which orbit stars that are not our own Sun.
 
-As of early 2018 there are over 3500 confirmed exoplanets in 594 mulit-planet systems.
-A lot of the data this tutoral will use will be pulled from the [NASA Exoplanet Archive]
+>As of early 2018 there are over 3500 confirmed exoplanets in 594 mulit-planet systems.
 
-[NASA Exoplanet Archive]:(https://exoplanetarchive.ipac.caltech.edu/index.html)
+A lot of the data this tutorial will use will be pulled from the [NASA Exoplanet Archive]:(https://exoplanetarchive.ipac.caltech.edu/index.html)
+
 
 ## Exoplanet Transit Lightcurve
 ![alt text](http://www.exoplanetproject.co.uk/uploads/6/9/9/9/6999140/9299476_orig.jpg "Example Transit")
