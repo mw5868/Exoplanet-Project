@@ -9,13 +9,17 @@ from astropy.table import Table, Column
 import time
 import calendar
 
+# Generate timestamp for file name
 ts = str(calendar.timegm(time.gmtime()))
 
+# API for whole exoplanet archive database
 url= "https://exoplanetarchive.ipac.caltech.edu/cgi-bin/nstedAPI/nph-nstedAPI?table=exoplanets"
 
+# Reads in the API data and store in table
 t = Table.read(url,format='csv')
 
+# Generates second table containing only transit planets
 t_transit = t[t['pl_discmethod']=='Transit']
 
-
+# Writes the transit data table to csv file, appenidng timestamp into filename.
 t_transit.write('Transit_data_%s.csv'%ts,format='csv')
