@@ -22,4 +22,8 @@ t = Table.read(url,format='csv')
 t_transit = t[t['pl_discmethod']=='Transit']
 
 # Writes the transit data table to csv file, appenidng timestamp into filename.
-t_transit.write('Transit_data_%s.csv'%ts,format='csv')
+t_transit.write('Transit_Data_%s.csv'%ts,format='csv')
+
+# Prints a message comfirming completion, and states the filename.
+print("Transit data-loading is complete.")
+print("It has been stored in the main directory - Transit_Data_%s.csv"%ts)
